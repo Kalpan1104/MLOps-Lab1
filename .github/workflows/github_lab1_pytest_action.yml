@@ -1,5 +1,5 @@
 name: Testing with Pytest
-run-nam: Pytest
+run-name: Pytest
 on:
   push:
     branches:
